@@ -1,0 +1,4 @@
+/* Minimal styling hooks. Tweak freely. */
+.root {
+    -fx-font-family: "Segoe UI", sans-serif;
+}
